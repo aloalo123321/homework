@@ -1,0 +1,27 @@
+table, th, td {
+    border: 1px solid black;}
+
+.mshob{
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    background-color: beige;
+}
+.a{
+    background-color: antiquewhite;
+}
+.video{
+    height: 50vh;
+    width: 100vh;
+    display: flex;
+    justify-content: center;
+}
+.mashobvideo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
